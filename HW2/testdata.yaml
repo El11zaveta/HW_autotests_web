@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+address_create: https://test-stand.gb.ru/posts/create
+sleep_time: 3
+browser: chrome
+implicitly_wait: 3
+username: Cool2543 261h
+password: 589caed45a
+title: Test title
+description: Test description
+content: Test content
