@@ -1,0 +1,12 @@
+address: https://test-stand.gb.ru
+sleep_time: 3
+browser: chrome
+implicitly_wait: 3
+username: Cool2543 261h
+password: 589caed45a
+title: Create Post
+description: Test description
+content: Test content
+contact_name: Pip
+contact_email: Pup@gamil.com
+contact_content: Test

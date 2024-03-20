@@ -1,0 +1,8 @@
+16:38:05 INFO + ====== WebDriver manager ======
+16:38:06 INFO + Get LATEST chromedriver version for google-chrome
+16:38:06 INFO + Get LATEST chromedriver version for google-chrome
+16:38:06 INFO + Driver [C:\Users\liz-f\.wdm\drivers\chromedriver\win64\122.0.6261.128\chromedriver-win32/chromedriver.exe] found in cache
+16:38:07 INFO + Test4 Starting
+16:38:08 INFO + Sent Cool2543 261h to element //*[@id="login"]/div[1]/label/input
+16:38:08 INFO + Sent 589caed45a to element ('xpath', '//*[@id="login"]/div[2]/label/input')
+16:38:08 INFO + Click login button
