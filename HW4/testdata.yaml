@@ -1,0 +1,27 @@
+website1: https://test-stand.gb.ru/gateway/login
+website2: https://test-stand.gb.ru/api/posts
+website3: https://test-stand.gb.ru/gateway/posts
+address: http://test-stand.gb.ru
+sleep_time: 3
+browser: chrome
+implicitly_wait: 3
+
+username: Cool2543 261h
+password: 589caed45a
+
+title_test_rest: rtfgtf
+title_create_rest: Test
+description_create_rest: Test
+content_create_rest: Test
+
+title: Test title
+description: Test description
+content: Test content
+
+contact_name: Pip
+contact_email: Pup@gamil.com
+contact_content: Test
+
+from_email: s.e.a02@mail.ru
+to_email: s.e.a02@mail.ru
+pass_email: 19062020love
