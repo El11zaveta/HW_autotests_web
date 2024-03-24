@@ -63,7 +63,7 @@ def test_check_contact_us(browser):
 
 
 def test_api_get_posts(login):
-    response = TestApi.get_response_get_posts(login, order='ASC')
+    response = TestApi.get_response_get_posts(login, order="ASC")
     titles = [i["title"] for i in response.json()['data']]
     assert response.status_code == 200 and testdata['title_test_rest'] in titles
 
